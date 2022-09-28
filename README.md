@@ -22,6 +22,4 @@ code a little cleaner than when you found it.
 
 Web links: file:
 
-file:///C:/Users/zxiel/Downloads/Challenge-1/index.html
-
 https://jahazielfaye.github.io/Challenge-1/
