@@ -12,5 +12,5 @@ always leave the code a little cleaner than when you found it.
 ## Usage
 
 ```md
-![Front Browser] (01-html-css-git-homework-demo.png)
+![Front Browser] (./Challenge-1/images/01-html-css-git-homework-demo.png)
 ```
