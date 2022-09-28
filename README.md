@@ -2,15 +2,13 @@
 
 ## Description
 
--A Website for Marketing Agency that provides and follows
-accessibility standards.
--Engine optimization, bettering online reputation, and controlling social media marketing
--Applied Refactoring knowledge by Refactoring given code.
--Adhered to the **Scout Rule** which is, 
-always leave the code a little cleaner than when you found it.
+-A WEBSITE FOR MARKETING AGENCY THAT PROVIDES AND FOLLOWS
+ACCESSIBILTY STANDARDS.
+-ENGINE OPTIMIZATION, BETTERING ONLINE REPUTATION, AND COTROLLING SOCIAL MEDIA MARKETING
+-LLEARNED TO APPLY REFACTORING KNOWLEDGE BY RESTRUCTURING GIVEN CODE.
+-ADHERED TO THE **Scout Rule** WHICH IS 
+ALWAYS LEAVE THE CODE A LITTLE CLEANER THAN WHEN YOU FOUND IT.
 
 ## Usage
 
-```md
-![Front Browser] (./Challenge-1/images/01-html-css-git-homework-demo.png)
-```
+![screenshotoffrontbrowser] (../Challenge-1/images/01-html-css-git-homework-demo.png)
