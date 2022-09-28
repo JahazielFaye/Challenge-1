@@ -11,4 +11,4 @@ ALWAYS LEAVE THE CODE A LITTLE CLEANER THAN WHEN YOU FOUND IT.
 
 ## Usage
 
-![screenshotoffrontbrowser] (../Challenge-1/images/01-html-css-git-homework-demo.png)
+![screenshotoffrontbrowser] (./downloads/ucffiles/challenge-1../Challenge-1/images/01-html-css-git-homework-demo.png)
